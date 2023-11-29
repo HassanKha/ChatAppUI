@@ -1,37 +1,44 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Table of Contents
+1.Introduction
+2.Getting Started
+Prerequisites
+Installation
+3.User Interface
+Navigation
+Chat Rooms
+Messaging
+4.Troubleshooting
+Introduction
+Welcome to our Chat Application! This frontend documentation will guide you through using the features of our chat platform.
+Getting Started
+Prerequisites
+Make sure you have the following prerequisites installed:
+Modern web browser (Chrome, Firefox, Safari)
+Stable internet connection
+Installation
+No installation is required for the frontend as it runs in your web browser. Simply access the provided URL to start chatting.
+User Interface
+Navigation
+Our chat application provides a simple and intuitive user interface. Here's a quick overview:
+Displays the application name and user profile information.
+Plus Button to Add New Chat 
+Settings Button of Chat Application
+Chat Rooms
+The sidebar displays a list of available chat rooms. Click on a room to join and start chatting with other users in that room.
+Messaging
+To send a message:
+1.Select a chat room.
+2.Type your message in the message input field with Attach File or Image By Clicking on Attach Button (Optional).
+3.Click the Send button.
+Troubleshooting
+If you encounter any issues while using the chat application, please try the following:
+Type a message or Attach File Before Sending 
+Refresh the page.
+Check your internet connection.
+Clear browser cache and cookies.
 
 ## Deploy on Vercel
 
